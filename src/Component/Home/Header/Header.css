@@ -1,0 +1,25 @@
+/* .icon img{
+    width: 200px;
+    height: 80px;
+    border-radius: 50%;
+} */
+.nav-component a{
+    text-decoration: none;
+    margin: 10px;
+    /* transform: scale(1.02); */
+}
+.nav-component a:hover{
+    color: rgb(24, 243, 24);
+    font-weight: bold;
+    /* transition: .3s; */
+}
+.background-img{
+    background-image: url("../../../images/chicken.jpg");
+    height: 600px;
+    background-size: cover;
+    /* padding-top: 50%; */
+    width: 100%;
+}
+/* .header-component{
+    size: 100px;
+} */

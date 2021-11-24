@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "img":"https://www.uidownload.com/files/770/547/704/pizza-hut-logo.jpg",
+        "title":"Pizza Hut",
+        "location":"Dhanmondi"
+    },
+    {
+        "id":2,
+        "img":"https://lp-cms-production.imgix.net/2019-06/9dc3230e02530b6ae5f33b9ee24b6795-al-razzaque.jpg?auto=compress&crop=center&fit=crop&format=auto&h=416&w=960",
+        "title":"Al-Razzaque",
+        "location":"Mirpur"
+    },
+    {
+        "id":3,
+        "img":"https://media-cdn.tripadvisor.com/media/photo-s/1a/ce/41/60/grill-on-the-skyline.jpg",
+        "title":"Dhaka Garden",
+        "location":"Mohammadpur"
+    },
+    {
+        "id":4,
+        "img":"https://blog.dineout-cdn.co.in/blog/wp-content/uploads/2019/06/Burger-In-Law-1030x538.jpg",
+        "title":"Hungry Restaurant",
+        "location":"Mirpur 14"
+    },
+    {
+        "id":5,
+        "img":"https://i.ytimg.com/vi/fav_ouyJIS0/maxresdefault.jpg",
+        "title":"Dominos Pizza",
+        "location":"Mohammadpur"
+    },
+    {
+        "id":6,
+        "img":"https://cdn.dribbble.com/users/1224589/screenshots/6312712/kacchi-bhai-dribbble.png",
+        "title":"Kacchi Vai",
+        "location":"Dhanmondi"
+    }
+]

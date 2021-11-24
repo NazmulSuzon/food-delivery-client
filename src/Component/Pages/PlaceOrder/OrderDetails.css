@@ -1,0 +1,8 @@
+.user-field::placeholder{
+    font-weight: bolder;
+    font-size: large;
+}
+.form{
+    box-shadow: 5px 5px 5px 5px;
+    /* padding: 25px 100px 25px 20px; */
+}

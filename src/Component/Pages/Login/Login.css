@@ -1,0 +1,12 @@
+.create-account{
+    text-decoration: none;
+    color: black;
+}
+.create-account:hover{
+    color: red;
+    text-decoration: red;
+    text-decoration: underline;
+}
+.card-box{
+    box-shadow: 5px 5px 5px 5px;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/Layer256-1.png",
+        "title": "Pizza",
+        "details":"Pizza is a dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature.",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/1qLayer-1.png",
+        "title": "Broast",
+        "details":"Broasted chicken is fried in oil. But it is fried, in essence, inside a pressure cooker. Generically speaking, the machinery that can fry and pressure cook chicken simultaneously is known as a pressure fryer.",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/sa1.png",
+        "title": "Chicken",
+        "details":"Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising chickens—in comparison to mammals such as cattle or hogs—chicken meat and chicken eggs.",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/pngwing.png",
+        "title": "Burgers",
+        "details":"A hamburger is a food, typically considered a sandwich, consisting of one or more cooked patties—usually ground meat, typically beef—placed inside a sliced bread roll or bun.",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/qawLayer-1.png",
+        "title": "Snakes",
+        "details":"A snack is a small portion of food generally eaten between meals. Snacks come in a variety of forms including packaged snack foods and other processed foods, as well as items.",
+        "price": 200
+    },
+    {
+        "id": 6,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/sssssa1.png",
+        "title": "Sandwiches",
+        "details":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper",
+        "price": 200
+    },
+    {
+        "id": 7,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/Layezr-1.png",
+        "title": "Pasta",
+        "details":"Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking. ",
+        "price": 200
+    },
+    {
+        "id": 8,
+        "img": "https://marketplace.foodotawp.com/wp-content/uploads/2021/05/asasLayer-1.png",
+        "title": "Deserts",
+        "details":"Deserts made by sweet foods, such as confections, and possibly a beverage such as dessert wine and liqueur. Our Desert is so testy and delecious. You Can try it. Its come from Italy",
+        "price": 200
+    }
+]
