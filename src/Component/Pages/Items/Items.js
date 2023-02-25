@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import { useEffect } from "react";
 import { useState } from "react";
 import { Container, Row } from "react-bootstrap";
@@ -9,7 +9,7 @@ const Items = () => {
   const [cart, setCart] = useState([]);
 
   useEffect(() => {
-    fetch("https://ghoulish-village-13879.herokuapp.com/items")
+    fetch("https://food-delivery-server-production-1051.up.railway.app/items")
       .then((res) => res.json())
       .then((data) => setItemData(data));
   }, []);
@@ -18,7 +18,7 @@ const Items = () => {
     console.log("from handle add to cart", data);
     const newCart = [...cart, data];
     setCart(newCart);
-    fetch("https://ghoulish-village-13879.herokuapp.com/userData", {
+    fetch("https://food-delivery-server-production-1051.up.railway.app/userData", {
       method: "POST",
       headers: {
         "content-type": "application/json",

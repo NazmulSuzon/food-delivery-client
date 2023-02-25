@@ -8,7 +8,7 @@ const MyOrder = () => {
 
     useEffect(() => {
         setIsSpinnerTrue(true);
-        fetch('https://ghoulish-village-13879.herokuapp.com/userData')
+        fetch('https://food-delivery-server-production-1051.up.railway.app/userData')
             .then(res => res.json())
             .then(data => {
                 setOrderItem(data);

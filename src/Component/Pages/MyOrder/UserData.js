@@ -11,7 +11,7 @@ const UserData = (props) => {
       const  proceed = window.confirm('Are you sure ,you want to delete?')
       if(proceed){
         
-          const url = `https://ghoulish-village-13879.herokuapp.com/userData/${id}`
+          const url = `https://food-delivery-server-production-1051.up.railway.app/userData/${id}`
       fetch(url, {
           method:'DELETE'
       })

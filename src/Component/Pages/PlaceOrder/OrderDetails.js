@@ -13,7 +13,7 @@ const OrderDetails = () => {
   const { itemsId } = useParams();
 
   useEffect(() => {
-    fetch('https://ghoulish-village-13879.herokuapp.com/items')
+    fetch('https://food-delivery-server-production-1051.up.railway.app/items')
         .then(res => res.json())
         .then(data => setItemsDetails(data));
   }, [itemsId]);

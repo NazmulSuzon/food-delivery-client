@@ -6,7 +6,7 @@ const Restaurent = () => {
     const [restaurent, setRestaurent] = useState([]);
 
     useEffect(() => {
-        fetch('https://ghoulish-village-13879.herokuapp.com/restaurent')
+        fetch('https://food-delivery-server-production-1051.up.railway.app/restaurent')
         .then(res => res.json())
         .then(data => {
             setRestaurent(data)
